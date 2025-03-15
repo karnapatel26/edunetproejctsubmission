@@ -11,11 +11,6 @@ Key Features :
 - Supplier Insights: Defect Rates, Lead Times, Supplier Performance
 - Inventory Tracking: Stock Levels, Availability, Reorder Alerts 
 
-Files in This Repo :
-- PowerBI-SCM-Dashboard.pbix → Power BI project file  
-- Dataset.csv → Sample dataset used  
-- README.md → Project documentation  
-
 How to Use This Dashboard :
 - Download `PowerBI-SCM-Dashboard.pbix` and open in Power BI Desktop.  
 - Import dataset (`Dataset.csv`) if needed.
