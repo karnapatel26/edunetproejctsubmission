@@ -12,7 +12,7 @@ Key Features :
 - Inventory Tracking: Stock Levels, Availability, Reorder Alerts 
 
 How to Use This Dashboard :
-- Download `PowerBI-SCM-Dashboard.pbix` and open in Power BI Desktop.  
+- Download `KarnaFinalProject.pbix` and open in Power BI Desktop.  
 - Import dataset (`Dataset.csv`) if needed.
 - Explore interactive visuals and slicers for supply chain insights.  
 
