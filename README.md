@@ -13,7 +13,7 @@ Key Features :
 
 How to Use This Dashboard :
 - Download `KarnaFinalProject.pbix` and open in Power BI Desktop.  
-- Import dataset (`Dataset.csv`) if needed.
+- Import dataset (`Sustainable Supply Chain Performance.csv`) if needed.
 - Explore interactive visuals and slicers for supply chain insights.  
 
 Preview :
